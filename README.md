@@ -25,7 +25,7 @@ The questions that were highlighted during investigating and analyzing the Airbn
 - Does the cancellation policy type affect the average price?
 - What is the average price trend throughout the year (2016)?
 - Is the availability of properties affected in the peak period?
-- What is the most features that can influence the rental price in Seattel?
+- What are the most features that can influence the rental price in Seattel?
 
 #### Work Environment
 We performed our project in the open-source Anaconda Distribution using Python 3, and we have used the following libraries:
