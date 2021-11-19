@@ -42,7 +42,7 @@ Besides the README.md file, our project consists of the following files:
 - calendar.csv: It contains the information about listing availability and price in each day.
 
 #### Results Summary
-The key results of our analysis of the data set are posted [here](). 
+The key results of our analysis of the data set are posted [here](https://medium.com/@rajaa.rahil). 
 #### Acknowledgments
 I credit the Kaggle site as a host of the Airbnb dataset, and the dataset can be found [here](https://www.kaggle.com/airbnb/seattle/data) or in the original source [here](http://insideairbnb.com/get-the-data.html). Furthermore, a credit to Stack Overflow for the useful information.<br/>
 A helpful Stack Overflow page [here](https://stackoverflow.com/questions/19966018/pandas-filling-missing-values-by-mean-in-each-group)
