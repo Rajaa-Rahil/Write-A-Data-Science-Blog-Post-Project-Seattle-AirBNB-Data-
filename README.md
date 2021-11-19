@@ -24,7 +24,7 @@ The questions that were highlighted during investigating and analyzing the Airbn
 - What are the cancellation policy types in Seattle?
 - Does the cancellation policy type affect the average price?
 - What is the average price trend throughout the year (2016)?
-- Does the availability of properties affect the peak season period?
+- Is the availability of properties affected in the peak period?
 - What is the most features that can influence the rental price in Seattel?
 
 #### Work Environment
