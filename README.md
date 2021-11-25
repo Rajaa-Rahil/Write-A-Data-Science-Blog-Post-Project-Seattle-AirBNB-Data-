@@ -1,4 +1,4 @@
-## Airbnb Dataset Analysis for Seattle, WA
+## Write A Data Science Blog Post Project (Seattle AirBNB Data)
 ### Table of Contents
 1. [Introduction](#Introduction)
 2. [Project Motivations](#Project-Motivations)
